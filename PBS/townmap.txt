@@ -1,0 +1,26 @@
+﻿[0]
+Name=Kingtendom
+Filename=mapRegion0.png
+Point=17,11,"Pueblo Zero","Mi casa",22,18,13,
+Point=17,10,"Ruta 1",,,,,
+Point=17,9,"Pueblo Cruceta","Centro de alistamiento",77,42,17,
+Point=18,9,"Ruta 2",,,,,
+Point=19,9,"Claro del Este",,,,,
+Point=17,8,"Bosque Perdido",,,,,
+Point=18,8,"Ruta 3",,,,,
+Point=19,8,"Ruta 3",,,,,
+Point=19,7,"Ciudad Suave","Primer Gimnasio",102,29,48,
+Point=22,5,"Ruta 4","Puerto de Ciudad Ocean",,,,
+Point=23,5,"Ciudad Ocean","Segundo Gimnasio",,,,
+Point=23,6,"Paseo Marino",,,,,
+Point=23,7,"Ruta 5",,,,,
+Point=23,8,"Ruta 5",,,,,
+Point=23,9,"Ciudad Amatista","Academia de Bloggers",,,,
+Point=23,10,"Ruta 6",,,,,
+Point=23,11,"Ruta 6",,,,,
+Point=23,12,"Ruta 6",,,,,
+Point=24,11,"Mina de Wario",,,,,
+[1]
+Name=
+Filename=mapRegion1.png
+Point=13,16,Aquí,,,,,
