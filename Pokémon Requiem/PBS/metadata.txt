@@ -1,0 +1,637 @@
+﻿[000]
+PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+TrainerBattleBGM=BatallaEntrenador.mp3
+SurfBGM=Surf.mp3
+BicycleBGM=Bicicleta.mp3
+Home=48,7,7,8
+WildBattleBGM=BatallaSalvaje.mp3
+[001]
+# Intro
+[002]
+# Pueblo Empanada
+MapPosition=0,13,12
+Outdoor=true
+ShowArea=true
+[003]
+# Pasaje Pueblo Cruceta - Bosque Perdido
+BattleBack=IndoorB
+Bicycle=true
+MapPosition=0,13,12
+HealingSpot=2,8,8
+[004]
+# Laboratorio Pokémon
+MapPosition=0,13,12
+ShowArea=false
+[005]
+# Ruta 1
+MapPosition=0,13,11
+Outdoor=true
+ShowArea=true
+[006]
+# Casa de Kurt
+MapPosition=0,13,11
+[007]
+# Ciudad Milanesa
+MapSize=2,11
+MapPosition=0,13,10
+Outdoor=true
+ShowArea=true
+[008]
+# Casa de Belén
+MapPosition=0,13,12
+[009]
+# Centro Pokémon
+MapPosition=0,14,10
+HealingSpot=8,17,11
+[010]
+# Gimnasio Milanesa
+BattleBack=IndoorB
+MapPosition=0,13,10
+[011]
+# Instituto Pokémon
+MapPosition=0,14,10
+[012]
+# Club Movimientos
+MapPosition=0,14,10
+[013]
+# Rincón de Juegos
+MapPosition=0,14,10
+[014]
+# Centro Comercial PB
+MapPosition=0,13,10
+[015]
+# Centro Comercial P1
+MapPosition=0,13,10
+[016]
+# Centro Comercial P2
+MapPosition=0,13,10
+[017]
+# Centro Comercial P3
+MapPosition=0,13,10
+[018]
+# Centro Comercial P4
+MapPosition=0,13,10
+[019]
+# Centro Comercial Azotea
+MapPosition=0,13,10
+[020]
+# Centro Comercial Ascensor
+MapPosition=0,13,10
+[021]
+# Ruta 2
+MapSize=1,11
+Weather=Rain,50
+MapPosition=0,14,8
+Outdoor=true
+ShowArea=true
+[022]
+# Pueblo Zero
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[023]
+# Pueblo Lomito
+MapPosition=0,15,8
+Outdoor=true
+ShowArea=true
+[024]
+# Centro Pokémon
+MapPosition=0,15,8
+HealingSpot=23,11,15
+[025]
+# Tienda
+MapPosition=0,15,8
+[026]
+# Club Fanáticos Pokémon
+MapPosition=0,15,8
+[027]
+# Guardería Pokémon
+MapPosition=0,15,8
+[028]
+# Parque Natural
+BattleBack=Forest
+MapPosition=0,16,8
+Outdoor=true
+ShowArea=true
+[029]
+# Entrada Parque Natural
+Bicycle=true
+MapPosition=0,16,8
+[030]
+# Sala Parque Natural
+MapPosition=0,16,8
+[031]
+# Ruta 3
+MapSize=2,1101
+MapPosition=0,14,6
+Outdoor=true
+ShowArea=true
+[032]
+# Laboratorio de Piwott
+[033]
+# Casa de \PN
+[034]
+# Cueva Helada
+BattleBack=IndoorC
+Bicycle=true
+MapPosition=0,15,6
+[035]
+# Monte Plateado
+MapPosition=0,13,6
+Outdoor=true
+ShowArea=true
+[036]
+# Liga Pokémon
+MapPosition=0,13,6
+HealingSpot=35,17,7
+[037]
+# Liga Pokémon
+BattleBack=EliteA
+MapPosition=0,13,6
+[038]
+# Hall de la Fama
+MapPosition=0,13,6
+[039]
+# Ruta 4
+MapSize=2,11
+MapPosition=0,11,6
+Outdoor=true
+ShowArea=true
+[040]
+# Ruta 4
+MapPosition=0,11,6
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+[041]
+# Ruta 5
+MapSize=1,111
+MapPosition=0,11,7
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+[042]
+# Casa de Alguien
+[043]
+# Ruta 1
+SnapEdges=false
+BattleBack=Norte
+Bicycle=true
+Outdoor=true
+WildBattleBGM=BatallaSalvaje.wav
+ShowArea=true
+[044]
+# Ruta 6
+MapSize=2,11
+MapPosition=0,11,10
+Outdoor=true
+ShowArea=true
+[045]
+# Ruta 6
+MapPosition=0,11,10
+Outdoor=true
+BicycleAlways=true
+ShowArea=true
+[046]
+# Entrada Ruta Ciclista
+Bicycle=true
+MapPosition=0,12,6
+[047]
+# Ruta 7
+MapSize=2,11
+BattleBack=Mountain
+Weather=Rain,0
+MapPosition=0,15,10
+Outdoor=true
+ShowArea=true
+[048]
+# Habitación Principal
+[049]
+# Cueva Rocosa
+Bicycle=true
+MapPosition=0,16,10
+[050]
+# Cueva Rocosa
+BattleBack=CaveDark
+Bicycle=true
+MapPosition=0,16,10
+DarkMap=true
+[051]
+# Mazmorra
+Bicycle=true
+Dungeon=true
+MapPosition=0,16,10
+[052]
+# Frente de Batalla
+MapPosition=0,17,10
+Outdoor=true
+ShowArea=true
+[053]
+# Centro Pokémon
+MapPosition=0,17,10
+HealingSpot=52,17,14
+[054]
+# Tienda
+MapPosition=0,17,10
+[055]
+# Torre Batalla
+MapPosition=0,17,10
+HealingSpot=52,30,10
+[056]
+# Campo Torre Batalla
+BattleBack=EliteA
+MapPosition=0,17,10
+[057]
+# Hall Copa Estadio
+MapPosition=0,17,10
+[058]
+# Palacio Batalla
+MapPosition=0,17,10
+[059]
+# Campo Palacio Batalla
+BattleBack=EliteD
+MapPosition=0,17,10
+[060]
+# Dojo Batalla
+MapPosition=0,17,10
+[061]
+# Campo Dojo Batalla
+BattleBack=EliteB
+MapPosition=0,17,10
+[062]
+# Fábrica Batalla
+MapPosition=0,17,10
+[063]
+# Intro Pasillo de Fábrica Batalla
+MapPosition=0,17,10
+[064]
+# Campo Fábrica Batalla
+BattleBack=EliteC
+MapPosition=0,17,10
+[065]
+# Pasillo de Fábrica Batalla
+MapPosition=0,17,10
+[066]
+# Zona Safari
+MapPosition=0,12,12
+Outdoor=true
+ShowArea=true
+[067]
+# Entrada Zona Safari
+MapPosition=0,12,12
+[068]
+# Zona Safari
+BattleBack=Forest
+MapPosition=0,12,12
+SafariMap=true
+Outdoor=true
+ShowArea=true
+[069]
+# Ruta 8
+DiveMap=70
+MapPosition=0,13,13
+Outdoor=true
+ShowArea=true
+[070]
+# Fondo Marino
+MapPosition=0,13,13
+[071]
+# Puerto
+MapPosition=0,13,13
+[072]
+# Isla Daroxy
+Weather=Storm,50
+MapPosition=0,18,17
+Outdoor=true
+ShowArea=true
+[073]
+# Isla Faraday
+MapPosition=0,22,16
+Outdoor=true
+ShowArea=true
+[074]
+# Entrada Ruta Ciclista
+Bicycle=true
+MapPosition=0,12,10
+[075]
+# Kingtendom
+MapPosition=1,13,16
+Outdoor=true
+[076]
+# Casa de Zeldero
+Outdoor=false
+ShowArea=false
+[077]
+# Pueblo Cruceta
+SnapEdges=true
+BattleBack=Ciudad
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[078]
+# Pasaje Ruta 1 - Pueblo Cruceta
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[079]
+# Pasaje Ruta 5 - Ciudad Amatista
+Bicycle=true
+Outdoor=false
+ShowArea=false
+[080]
+# Centro de Alistamiento A
+BattleBack=Interior
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[081]
+# Centro de Alistamiento Z
+BattleBack=Interior
+Outdoor=false
+[082]
+# Pasaje Ruta 4 - Ciudad Ocean
+Bicycle=true
+[083]
+# Casa
+[084]
+# Casa
+[085]
+# Casa
+BattleBack=Interior
+[086]
+# Casa
+[087]
+# Puente Submarino
+SnapEdges=true
+BattleBack=Agua
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[088]
+# Ruta 5
+SnapEdges=true
+BattleBack=Monte
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[089]
+# Mina de Wario
+SnapEdges=false
+BattleBack=Cueva
+Bicycle=true
+DarkMap=true
+Outdoor=true
+ShowArea=true
+[090]
+# Mina de Wario -1
+SnapEdges=true
+BattleBack=Cueva
+Bicycle=true
+DarkMap=false
+[091]
+# Ciudad Amatista
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[092]
+# Ruta 6
+BattleBack=Monte
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[093]
+# Pasaje Ciudad Amatista - Ruta 6
+[094]
+# Templo del agua
+BattleBack=Mansion
+Bicycle=false
+Outdoor=false
+ShowArea=true
+[095]
+# Academia de Bloggers
+BattleBack=Mansion
+ShowArea=true
+[096]
+# Centro Pokémon
+[097]
+# Entrada del Bosque Perdido
+Bicycle=true
+[098]
+# Bosque Perdido
+SnapEdges=true
+BattleBack=Bosque
+Outdoor=true
+ShowArea=true
+[099]
+# Ruta 3
+BattleBack=Pradera
+Bicycle=true
+Outdoor=true
+HealingSpot=99,11,26
+ShowArea=true
+[100]
+# Ruta 2
+SnapEdges=true
+BattleBack=Norte
+Weather=Rain,1
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[101]
+# Claro del Este
+BattleBack=Bosque
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[102]
+# Ciudad Suave
+MapSize=0,
+SnapEdges=true
+Bicycle=true
+DarkMap=false
+Outdoor=true
+ShowArea=true
+[103]
+# Centro Pokémon
+[104]
+# Centro Pokémon
+[105]
+# Gimnasio
+BattleBack=G1
+[106]
+# Pasaje Ruta 2 - Claro del Este
+[107]
+# Tienda
+Bicycle=false
+Outdoor=false
+ShowArea=false
+[108]
+# Torre Difuminada
+ShowArea=true
+[109]
+# Torre Difuminada
+[110]
+# Pasaje Ruta 3 - Ciudad Suave
+[111]
+# Edificio
+[112]
+# Edificio
+[113]
+# Edificio
+[114]
+# Edificio
+[116]
+# Ruta 4
+BattleBack=Norte
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[117]
+# Cinemática barco
+[118]
+# Centro de Alistamiento.
+BattleBack=Interior
+ShowArea=true
+[119]
+# Tienda
+[120]
+# Tienda
+[121]
+# Ciudad Ocean
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[122]
+# Gimnasio
+BattleBack=G4
+[123]
+# Edificio
+[124]
+# Edificio
+[125]
+# Edificio
+[126]
+# Edificio
+[135]
+# Puente Gerudo
+SnapEdges=true
+BattleBack=Monte
+Bicycle=true
+ShowArea=true
+[136]
+# Cabaña
+[137]
+# Fortaleza Gerudo
+SnapEdges=true
+BattleBack=Monte
+Bicycle=true
+ShowArea=true
+[138]
+# Fortaleza Gerudo
+BattleBack=Interior
+[139]
+# Desierto Gerudo
+SnapEdges=true
+BattleBack=Desierto
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[140]
+# Mega Ciudad Triforce
+SnapEdges=true
+BattleBack=Ciudad
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[141]
+# Volcán Valooh
+SnapEdges=true
+BattleBack=Volcan
+Bicycle=true
+HealingSpot=141,93,23
+ShowArea=true
+[144]
+# Templo del Tiempo
+BattleBack=Mansion
+Outdoor=true
+[145]
+# Gimnasio
+[146]
+# Gimnasio
+BattleBack=G4
+[147]
+# Ruta 7
+SnapEdges=true
+BattleBack=Pradera
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[148]
+# Caravana
+BattleBack=Interior
+[149]
+# Ayuntamiento
+BattleBack=Interior
+ShowArea=true
+[150]
+# Pueblo Retirado
+SnapEdges=true
+BattleBack=Monte
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[151]
+# Cueva Ancestral
+BattleBack=Cueva
+Bicycle=true
+ShowArea=true
+[152]
+# Centro Pokémon
+[154]
+# Valle de los Fogones
+SnapEdges=true
+BattleBack=Helado
+Bicycle=true
+ShowArea=true
+[155]
+# Pasaje Pueblo Retirado - Valle de los Fogones
+Bicycle=false
+[157]
+# Ciudad Gráfica
+SnapEdges=true
+BattleBack=Ciudad
+Bicycle=true
+ShowArea=true
+[160]
+# Centro Comercial
+Bicycle=false
+ShowArea=true
+[161]
+# Pie del Volcán Valooh
+SnapEdges=true
+BattleBack=Volcan
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[162]
+# Ladera del Volcán Valooh
+SnapEdges=true
+BattleBack=Monte
+Bicycle=true
+ShowArea=true
+[163]
+# Cima del Volcán Valooh
+SnapEdges=true
+BattleBack=Volcan
+Bicycle=true
+Outdoor=false
+ShowArea=true
+[164]
+# Gimnasio
+BattleBack=Gimnasio4
+[167]
+# ¿?
+SnapEdges=true
