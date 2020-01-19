@@ -40,6 +40,16 @@ Point=13,5,Volcán Valooh,Cráter del Volcán Valooh,,,,
 Point=14,5,Volcán Valooh,Cráter del Volcán Valooh,,,,
 Point=11,5,,,,,,
 Point=24,12,???,,,,,
+Point=12,6,"Rua 8",,,,,
+Point=10,6,"Ruta 9",,,,,
+Point=8,6,"Ciudad Justicia","Quinto Gimnasio",,,,
+Point=10,5,"Central Eléctrica",,,,,
+Point=10,7,"Jungla Kong",,,,,
+Point=10,8,"Jungla Kong","Choza de SK",,,,
+Point=10,9,"Jungla Kong",,,,,
+Point=10,10,"Pueblo Musgo","Sexto Gimnasio",,,,
+Point=11,10,"Ruta 10",,,,,
+
 [1]
 Name=
 Filename=mapRegion1.png

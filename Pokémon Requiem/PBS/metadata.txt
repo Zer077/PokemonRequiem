@@ -1,6 +1,8 @@
 ﻿[000]
 PlayerA=POKEMONTRAINER_Red,trchar000,boy_bike,boy_surf_offset,boy_run,boy_dive_offset,boy_fish_offset,boy_fishsurf_offset
 PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_dive_offset,girl_fish_offset,girl_fishsurf_offset
+TrainerVictoryME=Victoria.mp3
+WildVictoryME=Victory - Wild Pokemon.mp3
 TrainerBattleBGM=BatallaEntrenador.mp3
 SurfBGM=Surf.mp3
 BicycleBGM=Bicicleta.mp3
@@ -520,14 +522,17 @@ BattleBack=G4
 SnapEdges=true
 BattleBack=Monte
 Bicycle=true
+Outdoor=true
 ShowArea=true
 [136]
 # Cabaña
+Outdoor=false
 [137]
 # Fortaleza Gerudo
 SnapEdges=true
 BattleBack=Monte
 Bicycle=true
+Outdoor=true
 ShowArea=true
 [138]
 # Fortaleza Gerudo
@@ -537,14 +542,14 @@ BattleBack=Interior
 SnapEdges=true
 BattleBack=Desierto
 Bicycle=true
-Outdoor=false
+Outdoor=true
 ShowArea=true
 [140]
 # Mega Ciudad Triforce
 SnapEdges=true
 BattleBack=Ciudad
 Bicycle=true
-Outdoor=false
+Outdoor=true
 ShowArea=true
 [141]
 # Volcán Valooh
@@ -567,7 +572,7 @@ BattleBack=G4
 SnapEdges=true
 BattleBack=Pradera
 Bicycle=true
-Outdoor=false
+Outdoor=true
 ShowArea=true
 [148]
 # Caravana
@@ -581,7 +586,7 @@ ShowArea=true
 SnapEdges=true
 BattleBack=Monte
 Bicycle=true
-Outdoor=false
+Outdoor=true
 ShowArea=true
 [151]
 # Cueva Ancestral
@@ -595,6 +600,7 @@ ShowArea=true
 SnapEdges=true
 BattleBack=Helado
 Bicycle=true
+Outdoor=true
 ShowArea=true
 [155]
 # Pasaje Pueblo Retirado - Valle de los Fogones
@@ -604,6 +610,7 @@ Bicycle=false
 SnapEdges=true
 BattleBack=Ciudad
 Bicycle=true
+Outdoor=true
 ShowArea=true
 [160]
 # Centro Comercial
@@ -614,20 +621,21 @@ ShowArea=true
 SnapEdges=true
 BattleBack=Volcan
 Bicycle=true
-Outdoor=false
+Outdoor=true
 ShowArea=true
 [162]
 # Ladera del Volcán Valooh
 SnapEdges=true
 BattleBack=Monte
 Bicycle=true
+Outdoor=true
 ShowArea=true
 [163]
 # Cima del Volcán Valooh
 SnapEdges=true
 BattleBack=Volcan
 Bicycle=true
-Outdoor=false
+Outdoor=true
 ShowArea=true
 [164]
 # Gimnasio
@@ -635,3 +643,145 @@ BattleBack=Gimnasio4
 [167]
 # ¿?
 SnapEdges=true
+[169]
+# ¿?
+SnapEdges=true
+[180]
+# Ruta 8
+SnapEdges=true
+BattleBack=Monte
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[181]
+# Aldea Norte
+SnapEdges=true
+BattleBack=Monte
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[183]
+# Tienda de campaña
+[190]
+# Tienda de campaña
+BattleBack=Interior
+[192]
+# Ruta 9
+SnapEdges=true
+BattleBack=Norte
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[193]
+# Pasaje Aldea Norte - Ruta 9
+[194]
+# Ciudad Justicia
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[199]
+# Sala de espera
+BattleBack=Lobby
+[200]
+# Ruta Eléctrica
+SnapEdges=true
+BattleBack=Monte
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[201]
+# Central Eléctrica
+Bicycle=true
+ShowArea=true
+[210]
+# Gimnasio
+BattleBack=G3
+[211]
+# Entrada de la Jungla Kong
+SnapEdges=true
+BattleBack=Bosque
+Bicycle=true
+Outdoor=true
+ShowArea=false
+[212]
+# Jungla Kong
+SnapEdges=true
+BattleBack=Bosque
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[213]
+# Animación Patada SK
+Outdoor=true
+[214]
+# ¿?
+SnapEdges=true
+Bicycle=true
+ShowArea=true
+[215]
+# Salón principal
+[216]
+# Salón
+BattleBack=Mansion
+[217]
+# Pasillo principal
+BattleBack=Mansion
+[218]
+# Trastero
+BattleBack=Mansion
+[219]
+# Sala de baile
+BattleBack=Mansion
+[220]
+# Trastero
+BattleBack=Mansion
+[221]
+# Escaleras hacia la Caldera
+BattleBack=Mansion
+[222]
+# Caldera
+BattleBack=Mansion
+[223]
+# Comedor
+BattleBack=Mansion
+[224]
+# Habitación secreta
+BattleBack=Mansion
+[225]
+# Vieja habitación
+BattleBack=Mansion
+[226]
+# Sala de reuniones
+BattleBack=Mansion
+[229]
+# Pueblo Musgo
+SnapEdges=true
+BattleBack=Bosque
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[230]
+# Ruta 10
+SnapEdges=true
+BattleBack=Norte
+Bicycle=true
+Outdoor=true
+ShowArea=true
+[236]
+# Gimnasio
+BattleBack=G2
+[237]
+# Pasaje Ruta 10 - Carril Bici
+[238]
+# Guarida Duskull
+BattleBack=Mansion
+ShowArea=true
+[239]
+# Despacho de V
+BattleBack=Mansion
+ShowArea=true
+[241]
+# Jardín
+SnapEdges=true
+BattleBack=Tartaro
